@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l04eyad+knI=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\CertificateManager\\CertificateManager\\CertificateManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jnolan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\jnolan\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

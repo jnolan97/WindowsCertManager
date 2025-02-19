@@ -1,0 +1,17 @@
+C:\dev\CertificateManager\CertificateManager\bin\Debug\net8.0\CertificateManager.exe
+C:\dev\CertificateManager\CertificateManager\bin\Debug\net8.0\CertificateManager.deps.json
+C:\dev\CertificateManager\CertificateManager\bin\Debug\net8.0\CertificateManager.runtimeconfig.json
+C:\dev\CertificateManager\CertificateManager\bin\Debug\net8.0\CertificateManager.dll
+C:\dev\CertificateManager\CertificateManager\bin\Debug\net8.0\CertificateManager.pdb
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.AssemblyInfoInputs.cache
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.AssemblyInfo.cs
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.csproj.CoreCompileInputs.cache
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.dll
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\refint\CertificateManager.dll
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.pdb
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.genruntimeconfig.cache
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\ref\CertificateManager.dll
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\CertificateManager.csproj.AssemblyReference.cache
+C:\dev\CertificateManager\CertificateManager\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\dev\CertificateManager\CertificateManager\obj\Debug\net8.0\Certific.36225EB2.Up2Date
